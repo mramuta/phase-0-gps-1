@@ -2,4 +2,4 @@
 *italic stuff*
 `prints "i love to code"`
 [link](www.google.com)
-<img screenshot.png>
+![screenshot](https://github.com/mramuta/phase-0-gps-1/blob/release4/screenshot.png "screenshot")
